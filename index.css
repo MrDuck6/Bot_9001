@@ -1,0 +1,16 @@
+html {
+	background-color: #145859;
+}
+
+
+.main {
+	background-color: white;
+	width: 50%;
+	height:100%;
+	position: absolute;
+	margin: 0% 25%;
+}
+
+h3,h1 {
+	padding: 10px;
+}
